@@ -1,1 +1,1 @@
-# Option-Pricing-with-finte-difference-method
+# Option-Pricing-with-finite-difference-method
