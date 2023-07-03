@@ -1,7 +1,7 @@
 # Option-Pricing-with-finite-difference-method
 The purpose of this project is to compute the price and greeks of a vanilla option
 with european or american exercise. The Black–Scholes partial differential equation
-will be solved using a numerical method. The PDE solver must be written in C++.
+will be solved using a numerical method. The PDE solver is written in C++.
 The user interface will use Excel.
 ## Inputs
 1. The contract type : call or put.
