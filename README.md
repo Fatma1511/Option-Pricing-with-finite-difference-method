@@ -15,7 +15,7 @@ The user interface will use Excel.
 9. The risk free interest rate. A constant value, positive or negative will be used.
 10. The volatility σ.
 ## Computation method
-A finite difference method with the Cranck–Nicholson schema will be used.
+A finite difference discretization with the Theta method will be used.
 ## Validation
 In order to validate the results we will use the Black–Scholes formula to compare the numerical method with the explicit solution. You will also verify that the code verifies the equivalence between american and european exercises for calls with r > 0 and for puts with r < 0.
 ## Outputs:
